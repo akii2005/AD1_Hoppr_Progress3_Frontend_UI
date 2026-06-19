@@ -1,0 +1,54 @@
+# Progress 3 Submission Checklist
+
+## 1. Frontend UI High Fidelity Prototype
+
+- [x] Login screen with UTM email validation
+- [x] Register account screen
+- [x] Verify email screen
+- [x] Reset password screen
+- [x] Home dashboard
+- [x] Ride booking screen
+- [x] Fare estimate screen/section
+- [x] Active ride tracking screen
+- [x] Payment confirmation and rating screen
+- [x] Ride history screen
+- [x] Parcel delivery booking screen
+- [x] Food delivery order screen
+- [x] Delivery tracking screen
+- [x] Driver dashboard screen
+- [x] Accept job / decline job UI
+- [x] Trip execution status UI
+- [x] Earnings screen
+- [x] Profile view screen
+- [x] Edit profile screen
+- [x] Settings screen with dark mode and notification toggle
+- [x] Admin dashboard
+- [x] Driver verification UI
+- [x] Reports/complaints handling UI
+- [x] Responsive high fidelity mobile frame
+
+## 2. Project Management
+
+- [ ] Upload source code to GitHub
+- [ ] Check that `index.html` opens correctly from GitHub files
+- [ ] Add GitHub link to Trello
+- [ ] Move Progress 3 tasks in Trello to Done/In Progress/To Do correctly
+- [ ] Add this README table to GitHub repository main page
+
+## 3. Video
+
+- [ ] Record the prototype walkthrough
+- [ ] Show Trello current state
+- [ ] Let each member explain responsible parts
+- [ ] Upload the video to YouTube/Google Drive
+- [ ] Paste the video link on the front page of the report
+
+## Suggested video structure
+
+1. Introduction: "This is Hoppr, a UTM Ride Hailing App for verified UTM users."
+2. Explain Progress 3 scope: High fidelity prototype, GitHub, Trello, video.
+3. Student user demo: login, ride booking, payment, delivery, profile.
+4. Driver user demo: dashboard, available jobs, accept/decline, trip execution, earnings.
+5. Admin demo: verification and reports.
+6. GitHub demo: show README table linking modules to scripts.
+7. Trello demo: show tasks and member responsibilities.

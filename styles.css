@@ -1,0 +1,13 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hoppr logo">
+  <rect width="128" height="128" rx="34" fill="url(#g)"/>
+  <path d="M27 83L42 30H61L56 49H75C91 49 99 58 95 72C91 88 78 98 57 98H38L42 83H59C69 83 75 79 77 72C79 66 75 63 67 63H52L46 83H27Z" fill="#DDFDF4"/>
+  <path d="M78 84C82 75 91 70 105 70L101 84H78Z" fill="#78F3C4"/>
+  <path d="M73 91H101L98 101H70L73 91Z" fill="#121A2F" fill-opacity=".85"/>
+  <defs>
+    <linearGradient id="g" x1="15" y1="7" x2="115" y2="119" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7432FF"/>
+      <stop offset=".52" stop-color="#241D4A"/>
+      <stop offset="1" stop-color="#0AAE8E"/>
+    </linearGradient>
+  </defs>
+</svg>
